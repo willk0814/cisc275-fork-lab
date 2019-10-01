@@ -4,6 +4,9 @@ CISC275 F19 students: Fork this repository, add your name, year and degree/major
 
 I will get us started:
 
+
 Nathaniel Merrill, 1st year PhD CISC student, favorite programming language is C
+
 John Doe, Senior ELEG student, favorite programming language is Bash
+
 Elaine Example, Junior MEEG studen, favorite programming language is Excel Macros
